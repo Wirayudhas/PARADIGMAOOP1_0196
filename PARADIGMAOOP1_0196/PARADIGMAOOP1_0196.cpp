@@ -9,4 +9,7 @@ private:
 	float nilai;
 
 public:
-	
+	mahasiswa(int pID, string pNama, float pNilai) :id(pID), nama(pNama), nilai(pNilai) { //membuat definisi
+	}
+
+
