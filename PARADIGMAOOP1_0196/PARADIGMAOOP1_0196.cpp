@@ -18,4 +18,8 @@ public:
 		cout << "id  = " << id << endl;
 		cout << "Nama = " << nama << endl;
 		cout << "Nialai = " << nilai << endl;
+	}
+};
+
+int main() {
 	
