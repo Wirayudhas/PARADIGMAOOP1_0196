@@ -15,4 +15,5 @@ public:
 
 
 	~mahasiswa() {
+		cout << "id  = " << id << endl;
 		
