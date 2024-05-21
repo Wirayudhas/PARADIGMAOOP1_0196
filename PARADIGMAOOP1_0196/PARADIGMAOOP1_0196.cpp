@@ -13,3 +13,6 @@ public:
 	}
 
 
+
+	~mahasiswa() {
+		
